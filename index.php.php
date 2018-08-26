@@ -10,6 +10,8 @@
         $nome = "ThugVini";
         print "Meu nickname é " . $nome;
 
+
+        
         
         ?>
     </body>
